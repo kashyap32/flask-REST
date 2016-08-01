@@ -18,4 +18,4 @@ def home():
     return "HELLO"
 if __name__ == '__main__':
     models.init()
-    app.run(port=5432,host='127.0.0.1',debug=True)
+    app.run(debug=True)
