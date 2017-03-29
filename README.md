@@ -9,7 +9,7 @@ To the extent that systems conform to the constraints of REST they can be called
 but not always, communicate over Hypertext Transfer Protocol (HTTP) with the same HTTP verbs (GET, POST, PUT, DELETE, etc.) 
 that web browsers use to retrieve web pages and to send data to remote servers
 
-#How to install flask-restful
+##How to install flask-restful
 
 -->> pip install flask-restful
 
@@ -20,11 +20,11 @@ that web browsers use to retrieve web pages and to send data to remote servers
                    -cd flask-restful
                    
                    -python setup.py develop
-#How to run
+##How to run
 
 -->> just run - python app.py
 
-#Requirements
+##Requirements
 
 -->> flask
 
